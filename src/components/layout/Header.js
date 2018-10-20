@@ -7,7 +7,7 @@ function Header(props) {
     <div>
       <nav className="navbar navbar-expand-sm navbar-dark bg-info mb-3 py-0" >
         <div className="container">
-          <a href="/" className="navbar-brand">{props.logo}</a>
+          <p href="#" className="navbar-brand">{props.logo}</p>
           <div>
             <ul className="navbar-nav mr-auto">
               <li className="nav-item">
